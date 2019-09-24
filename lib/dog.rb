@@ -1,3 +1,3 @@
 class Dog
-attr_writer(:name)
+  initialize(name)
 end
